@@ -1,8 +1,8 @@
 Arguments: 
-  /usr/local/bin/node /usr/local/Cellar/yarn/1.22.4/libexec/bin/yarn.js install
+  /usr/local/bin/node /usr/local/Cellar/yarn/1.22.4/libexec/bin/yarn.js add @react-navigation/native
 
 PATH: 
-  /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/gimgwanhui/Library/Android/sdk/emulator:/Users/gimgwanhui/Library/Android/sdk/tools:/Users/gimgwanhui/Library/Android/sdk/tools/bin:/Users/gimgwanhui/Library/Android/sdk/platform-tools
+  /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/gimgwanhui/Library/Android/sdk/emulator:/Users/gimgwanhui/Library/Android/sdk/tools:/Users/gimgwanhui/Library/Android/sdk/tools/bin:/Users/gimgwanhui/Library/Android/sdk/platform-tools:/Users/gimgwanhui/Library/Android/sdk/emulator:/Users/gimgwanhui/Library/Android/sdk/tools:/Users/gimgwanhui/Library/Android/sdk/tools/bin:/Users/gimgwanhui/Library/Android/sdk/platform-tools
 
 Yarn version: 
   1.22.4
